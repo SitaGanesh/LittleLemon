@@ -1,0 +1,30 @@
+/* Specials.css */
+
+.specials {
+    padding: 20px;
+  }
+  
+  .specials h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .specials ul {
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  .specials li {
+    margin-bottom: 20px;
+  }
+  
+  .specials h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .specials p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  

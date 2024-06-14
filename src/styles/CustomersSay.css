@@ -1,0 +1,30 @@
+/* CustomersSay.css */
+
+.customers-say {
+    padding: 20px;
+  }
+  
+  .customers-say h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .customers-say ul {
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  .customers-say li {
+    margin-bottom: 20px;
+  }
+  
+  .customers-say h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .customers-say p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
